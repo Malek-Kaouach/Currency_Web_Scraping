@@ -1,4 +1,4 @@
-# Currency_Web_Scraping-Description
+Currency_Web_Scraping-Description
 Currency Comparison Calculation and Exchange Rates Stability Analysis from X-Rates Website
 The main objectives of the project were as follows: 
 -Scrape currency exchange rates from the X-Rates website. 
